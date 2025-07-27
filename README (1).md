@@ -140,13 +140,3 @@ facenet-pytorch
 
 ---
 
-## 👥 Team
-
-- **Punit Kumar** – Face Recognition, Gesture Logic  
-(You can list other contributors if any)
-
----
-
-## 📜 License
-
-MIT License – Free to use and modify
